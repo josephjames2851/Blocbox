@@ -558,6 +558,26 @@ p {
    margin-right:10px;
    margin-top:8px;
  }
+ .left-nav .settings .settings-gear {
+    margin-top: -2px;
+ }
+
+
+/* SETTINGS MENU POP UP */
+ .left-nav .settings ul.settings-menu {
+   color:black;
+   text-decoration: none;
+   text-align: right;
+   float: right;
+   margin-right:10px;
+   margin-top:8px;
+ }
+
+ .settings-menu li a {
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.7em;
+ }
 
  /* CONTENT */
  .content {
